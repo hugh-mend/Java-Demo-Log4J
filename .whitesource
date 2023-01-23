@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": [],
+    "baseBranches": ["master","hughtest"],
     "enableLicenseViolations": true,
     "enableIaC": true,
     "enableSAST": true
